@@ -120,6 +120,9 @@ grid-column: span 2;
     body{
         font-size: .5em;
     }
+	.container{
+    grid-template-columns: 1fr;
+}
     .kWidth{
         height: 75px;
         grid-row: 2;
